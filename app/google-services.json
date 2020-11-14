@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "48045198945",
+    "firebase_url": "https://machinelearning-37576.firebaseio.com",
+    "project_id": "machinelearning-37576",
+    "storage_bucket": "machinelearning-37576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48045198945:android:1415fb8ffa96f34a3ca420",
+        "android_client_info": {
+          "package_name": "com.daniyal.appspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48045198945-locu3cdbs0fdvc7egnt07eutt2fcbthg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgQWven0wV3jkZJzkycHf2Z9d8nEsVIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48045198945-locu3cdbs0fdvc7egnt07eutt2fcbthg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48045198945:android:8383a3b49ec8e0a43ca420",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.automl.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48045198945-locu3cdbs0fdvc7egnt07eutt2fcbthg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgQWven0wV3jkZJzkycHf2Z9d8nEsVIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48045198945-locu3cdbs0fdvc7egnt07eutt2fcbthg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
